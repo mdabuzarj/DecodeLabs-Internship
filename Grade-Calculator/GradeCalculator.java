@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class average {
+public class GradeCalculator {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
         int subjects = 0;
